@@ -565,7 +565,7 @@ span{
 
 }
 
-@media(max-width : 480px){
+@media(max-width : 640px){
 
     html{
         font-size: 50%;
